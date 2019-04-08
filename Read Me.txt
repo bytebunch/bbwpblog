@@ -1,0 +1,3 @@
+1- Email Subscribe functionality.
+2- Remove author username from author arhiver page url
+3- 1082 width break styles
